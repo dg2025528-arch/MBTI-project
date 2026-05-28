@@ -681,4 +681,4 @@ with st.sidebar:
     
     st.markdown("---")
     st.markdown("### 💛 Made by")
-    st.write("당곡고등학교 학생")
+    st.write("의찬 홍")
